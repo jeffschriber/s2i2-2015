@@ -8,3 +8,6 @@
 
 - bullet
   - nested bullet
+
+1. number 1
+  1. nested 1
